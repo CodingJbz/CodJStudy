@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
-url:              https://liberxue.github.io # 域名
-signoff:          "LiberXue" # Your name
+title:            "蒋炳哲 blog"
+description:      "欢迎来到 蒋炳哲「corner」梳理过去"
+url:              https://codingjbz.github.io/E-Growth # 域名
+signoff:          "蒋炳哲" # Your name
 facebook_appid:   #liberxue
 google_analytics: UA-101222464-1
 share:            true 
