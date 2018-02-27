@@ -8,7 +8,7 @@ google_analytics: UA-112062722-2
 share:            true 
 # 分页
 paginate: 15h
-paginate_path: "liberxuepage:num"
+paginate_path: "pageNum:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
