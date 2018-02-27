@@ -12,22 +12,22 @@ paginate_path: "pageNum:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
-    url:          /
+    url:          /E-Growth/
     external:     false
   - name:         书籍
-    url:          /book
+    url:          /E-Growth/book
     external:     false
   - name:         旅游
-    url:          /road
+    url:          /E-Growth/road
     external:     false
   - name:         归档
-    url:          /archives
+    url:          /E-Growth/archives
     external:     false
   - name:         标签
-    url:          /tags
+    url:          /E-Growth/tags
     external:     false
   - name:         关于
-    url:          /about
+    url:          /E-Growth/about
     external:     false
 # ------------ CONFIGURABLE END ------------
 
